@@ -1,5 +1,6 @@
 // @flow
-import {default as React, PropTypes} from 'react';
+import {default as React} from 'react';
+import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 // $FlowIgnore
 import classNames from 'classnames';
@@ -288,4 +289,3 @@ export default class Draggable extends React.Component {
     );
   }
 }
-

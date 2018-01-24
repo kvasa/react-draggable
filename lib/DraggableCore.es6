@@ -1,5 +1,6 @@
 // @flow
-import {default as React, PropTypes} from 'react';
+import {default as React} from 'react';
+import PropTypes from 'prop-types';
 import {matchesSelector, createCoreEvent, addEvent, removeEvent, addUserSelectStyles,
         removeUserSelectStyles, styleHacks} from './utils/domFns';
 import {getControlPosition, snapToGrid} from './utils/positionFns';
