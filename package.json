@@ -1,5 +1,5 @@
 {
-  "name": "@roihunter/react-draggable-tedi",
+  "name": "@leadhub/react-draggable-tedi",
   "version": "1.3.8",
   "description": "React draggable component",
   "main": "dist/react-draggable.js",
